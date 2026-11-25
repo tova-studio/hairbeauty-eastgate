@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T07:47:11.855Z",
+  "slug": "hairbeauty-eastgate-christchurch",
+  "name": "HairBeauty Eastgate",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Beauty salons & nails",
+    "niche": "beauty salons & nails",
+    "group": "Beauty & wellness"
+  },
+  "contact": {
+    "phone": "+6433891089",
+    "email": "info@hairbeautyeastgate.co.nz",
+    "address": "302/20 Buckleys Rd, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/183905301711255"
+  },
+  "about": {},
+  "before": {
+    "score": 85,
+    "assessedAt": "2026-11-11T08:05:18.435Z",
+    "issues": [
+      {
+        "id": "no-website",
+        "title": "No website found",
+        "evidence": "No website is listed for this business in the sources searched (verify manually before outreach)."
+      }
+    ]
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/hairbeauty-eastgate/",
+    "repoUrl": "https://github.com/tova-studio/hairbeauty-eastgate",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T07:47:11.855Z"
+  }
+}
